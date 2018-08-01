@@ -1,0 +1,11 @@
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\bin\Debug\netcoreapp2.0\GSTWorkshop.deps.json
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\bin\Debug\netcoreapp2.0\GSTWorkshop.runtimeconfig.json
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\bin\Debug\netcoreapp2.0\GSTWorkshop.runtimeconfig.dev.json
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\bin\Debug\netcoreapp2.0\GSTWorkshop.dll
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\bin\Debug\netcoreapp2.0\GSTWorkshop.pdb
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\obj\Debug\netcoreapp2.0\GSTWorkshop.csprojResolveAssemblyReference.cache
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\obj\Debug\netcoreapp2.0\GSTWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\obj\Debug\netcoreapp2.0\GSTWorkshop.AssemblyInfoInputs.cache
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\obj\Debug\netcoreapp2.0\GSTWorkshop.AssemblyInfo.cs
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\obj\Debug\netcoreapp2.0\GSTWorkshop.dll
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\GSTWorkshop\obj\Debug\netcoreapp2.0\GSTWorkshop.pdb

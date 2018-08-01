@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionRoutes", "DependencyInjectionRoutes\DependencyInjectionRoutes.csproj", "{7D5701E9-CC91-49A8-BC8C-0876F46FD223}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.HandsOn-ConstantesERegions", "1.HandsOn-ConstantesERegions", "{087120C3-906A-4761-8BB5-795BF0EE5CA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.HandsOn-SeparationOfConcerns", "2.HandsOn-SeparationOfConcerns", "{91335241-50BD-486D-A8B9-CA30BD938C92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.HandsOn-SeparationOfConcerns2", "3.HandsOn-SeparationOfConcerns2", "{5281F09B-D494-4BEF-B651-ACED69FEB5AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.HandsOn-DependencyInjectionERoutes", "4.HandsOn-DependencyInjectionERoutes", "{9B999E64-7EF7-46A3-93E5-5D072EF087BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantsProject", "ConstantsProject\ConstantsProject.csproj", "{13F05E0E-2074-491F-8C7D-9AA89E04D15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOCProject", "SOCProject\SOCProject.csproj", "{7EDE488B-7E97-443F-A974-F9361A2D9626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOCProject2", "SOCProject2\SOCProject2.csproj", "{BD367BFC-11E2-47AD-93E9-F97A28402458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5701E9-CC91-49A8-BC8C-0876F46FD223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5701E9-CC91-49A8-BC8C-0876F46FD223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5701E9-CC91-49A8-BC8C-0876F46FD223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5701E9-CC91-49A8-BC8C-0876F46FD223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F05E0E-2074-491F-8C7D-9AA89E04D15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F05E0E-2074-491F-8C7D-9AA89E04D15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F05E0E-2074-491F-8C7D-9AA89E04D15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F05E0E-2074-491F-8C7D-9AA89E04D15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDE488B-7E97-443F-A974-F9361A2D9626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDE488B-7E97-443F-A974-F9361A2D9626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDE488B-7E97-443F-A974-F9361A2D9626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDE488B-7E97-443F-A974-F9361A2D9626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD367BFC-11E2-47AD-93E9-F97A28402458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD367BFC-11E2-47AD-93E9-F97A28402458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD367BFC-11E2-47AD-93E9-F97A28402458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD367BFC-11E2-47AD-93E9-F97A28402458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D5701E9-CC91-49A8-BC8C-0876F46FD223} = {9B999E64-7EF7-46A3-93E5-5D072EF087BB}
+		{13F05E0E-2074-491F-8C7D-9AA89E04D15D} = {087120C3-906A-4761-8BB5-795BF0EE5CA2}
+		{7EDE488B-7E97-443F-A974-F9361A2D9626} = {91335241-50BD-486D-A8B9-CA30BD938C92}
+		{BD367BFC-11E2-47AD-93E9-F97A28402458} = {5281F09B-D494-4BEF-B651-ACED69FEB5AB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93B449D3-D0FA-4DC9-8093-9EA9C87F664F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\bin\Debug\netcoreapp2.0\SOCProject2.deps.json
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\bin\Debug\netcoreapp2.0\SOCProject2.runtimeconfig.json
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\bin\Debug\netcoreapp2.0\SOCProject2.runtimeconfig.dev.json
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\bin\Debug\netcoreapp2.0\SOCProject2.dll
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\bin\Debug\netcoreapp2.0\SOCProject2.pdb
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\obj\Debug\netcoreapp2.0\SOCProject2.csproj.CoreCompileInputs.cache
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\obj\Debug\netcoreapp2.0\SOCProject2.AssemblyInfoInputs.cache
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\obj\Debug\netcoreapp2.0\SOCProject2.AssemblyInfo.cs
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\obj\Debug\netcoreapp2.0\SOCProject2.dll
+C:\Users\itiro\Desktop\Github\workshop\GSTWorkshop\SOCProject2\obj\Debug\netcoreapp2.0\SOCProject2.pdb
